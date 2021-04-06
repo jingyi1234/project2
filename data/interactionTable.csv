@@ -7,7 +7,7 @@ ParkingLot,,,,,E,LivingRoom
 ParkingLot,,,,,S,Library
 Library,,,,,N,ParkingLot
 Library,,,,,W,BusStation
-BusStation,,,,,W,Library
+BusStation,,,,,,E,Library
 BusStation,,,,,S,Park
 Park,,,,,N,BusStation
 Park,,,,,W,Supermarket
