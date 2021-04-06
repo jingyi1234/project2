@@ -9,4 +9,4 @@ ID,StateName,ClassName,PNGFilename,CollisionFilename
 7,Supermarket,PNGRoom,assets/Supermarket.png,
 8,BusStation,PNGRoom,assets/BusStation.png,
 9,Zoo,PNGRoom,assets/Zoo.png,
-10,End,PNGRoom,Assets/End.png,
+10,End,PNGRoom,assets/End.png,
