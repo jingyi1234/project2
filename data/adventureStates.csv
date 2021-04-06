@@ -7,6 +7,6 @@ ID,StateName,ClassName,PNGFilename,CollisionFilename
 5,Library,PNGRoom,assets/Library.png,
 6,Park,PNGRoom,assets/Park.png,
 7,Supermarket,PNGRoom,assets/Supermarket.png,
-8,BusStation,PNGRoom,assets/Calm.png,
+8,BusStation,PNGRoom,assets/BusStation.png,
 9,Zoo,PNGRoom,assets/Zoo.png,
 10,End,PNGRoom,Assets/End.png,
