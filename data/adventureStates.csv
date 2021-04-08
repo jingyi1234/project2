@@ -1,6 +1,6 @@
 ID,StateName,ClassName,PNGFilename,CollisionFilename
-0,Welcome,PNGRoom,assets/Welcome.png,
-1,Instruction,InstructionScreen,assets/Instruction.png,
+0,Splash,PNGRoom,assets/Splash.png,
+1,Instructions,InstructionsScreen,assets/Instructions.png,
 2,Start,PNGRoom,assets/Start.png,
 3,ParkingLot,PNGRoom,assets/ParkingLot.png,
 4,LivingRoom,PNGRoom,assets/LivingRoom.png,

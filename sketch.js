@@ -133,7 +133,7 @@ function setupClickables() {
 
 // tint when mouse is over
 clickableButtonHover = function () {
-  this.color = "#AA33AA";
+  this.color = "#FFFF33";
   this.noTint = false;
   this.tint = "#FF0000";
 }
@@ -168,7 +168,7 @@ class InstructionsScreen extends PNGRoom {
     this.textBoxHeight = (height/6)*4; 
 
     // hard-coded, but this could be loaded from a file if we wanted to be more elegant
-    this.instructionsText = "Left Click !";
+    this.instructionsText = "Instructions";
   }
 
   // call the PNGRoom superclass's draw function to draw the background image

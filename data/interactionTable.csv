@@ -1,9 +1,10 @@
 CurrentState,KeyTyped,KeyCode,MouseEvent,ClickableName,MapDirection,NextState
 Splash,,,mouseReleased,,,Instructions
-Instruction,,,,StartGame,,Start
-Start,,,,,S,ParkingLot
+Instructions,,,,StartGame,,Start
+Start,,,,,E,ParkingLot
 ParkingLot,,,,,W,Start
 ParkingLot,,,,,E,LivingRoom
+LivingRoom,,,,,W,ParkingLot
 ParkingLot,,,,,S,Library
 Library,,,,,N,ParkingLot
 Library,,,,,W,BusStation
